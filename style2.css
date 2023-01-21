@@ -1,0 +1,104 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+	background-image: url(bg.jpg);
+}
+
+.div1{
+	width: 100%;
+	height: 7vh;
+	background-color: #7a563c;
+}
+.div1_a{
+	position: relative;
+	color: white;
+	left: 1300px;
+	top: 10px;
+}
+.butt{
+	position: relative;
+	left: 1310px;
+	top: 10px;
+}
+.main2{
+	width: 100%;
+	height: 25vh;
+	display: flex;
+	flex-direction: row;
+}
+.div2{
+	padding: 30px 0px;
+}
+.div3{
+	padding: 70px 0px 0px 650px;
+}
+.div4{
+	padding: 70px 0px 0px 20px;
+	position: relative;
+}
+.inp{
+	height: 7vh;
+	width: 300px;
+}
+.slider{
+	display: flex;
+	flex-direction: row;
+}
+.blogs{
+	margin-left: 80px;
+}
+.blog1{
+	width: 400px;
+	height: 30vh;
+	padding: 10px;
+	position: relative;
+	background-color: #7a563c;
+	color: white;
+	border-radius: 5px;
+}
+.blog2{
+	width: 400px;
+	height: 30vh;
+	padding: 10px;
+	position: relative;
+	color: white;
+	border-radius: 5px;
+}
+.img{
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 250px;
+	bottom: 35px;
+}
+.boxes{
+	padding-top: 50px;
+	display: flex;
+	flex-direction: row;
+}
+.box{
+	border: 2px solid black;
+	border-radius: 10px;
+	width: 35%;
+	height: 15vh;
+	margin-left: 30px;
+}
+.icon{
+	padding: 40px 0px 0px 85px;
+	color: black;
+}
+.news{
+	display: flex;
+	flex-direction: row;
+}
+.n{
+	width: 33%;
+}
+.nw{
+	width: 100%;
+	height: 45vh;
+	padding: 10px;
+}
